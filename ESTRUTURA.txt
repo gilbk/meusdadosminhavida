@@ -6,4 +6,4 @@ Estrutura:
 2) coletar TODOS os cabeçalhos dos emails recebidos e enviados (metadados)
 3) Organizar os metadados por espaço e por tempo
 4) Plotar a rede de relações pessoais, com opção de evolução temporal
-5) Enviar msg sinistra!
+5) Enviar msg sinistra! Qual?
