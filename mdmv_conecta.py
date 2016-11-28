@@ -2,8 +2,9 @@
 import imaplib, getpass
 
 imap_host = 'imap.riseup.net'
-imap_user = mdmv
-imap_pass = getpass.getpass('senha: ')
+imap_user = 'mdmv'
+imap_pass = 'meusdadosminhavida'
+#imap_pass = getpass.getpass('senha: ')
 
 ## open a connection 
 #imap = imaplib.IMAP4_SSL(imap_host)
