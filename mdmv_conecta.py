@@ -7,10 +7,10 @@ imap_pass = 'meusdadosminhavida'
 #imap_pass = getpass.getpass('senha: ')
 
 ## open a connection 
-#imap = imaplib.IMAP4_SSL(imap_host)
+imap = imaplib.IMAP4_SSL(imap_host)
 
 ## login
-#imap.login(imap_user, imap_pass)
+imap.login(imap_user, imap_pass)
 
 
-#imap.close()
+imap.logout()
